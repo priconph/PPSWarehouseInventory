@@ -1,0 +1,83 @@
+# Spreadsheets / documents
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.pdf
+*.odt
+*.ods
+*.rtf
+
+# Archives / backups
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+*.bak
+*.backup
+*.sql
+*.dump
+
+# Databases
+*.mdb
+*.accdb
+*.sqlite
+*.sqlite3
+*.db
+
+# Images / media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.psd
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.wav
+
+# Executables / installers
+*.exe
+*.msi
+*.dll
+*.iso
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Uploads / exports (generated at runtime)
+upload/
+uploads/
+export/
+exports/
+backup/
+backups/
+temp/
+tmp/
+logs/
+
+# Dependencies
+vendor/
+node_modules/
+
+# Environment / IDE
+.env
+.vscode/
+.idea/
